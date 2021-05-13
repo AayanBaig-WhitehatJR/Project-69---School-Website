@@ -1,0 +1,12 @@
+#mapembed{
+    height: 200px;
+    width: 400px;
+}
+p{
+    font-family: monospace;
+}
+body{
+    background: rgba(255, 38, 0, 0.747);
+    color: whitesmoke;
+    font-family: monospace !important;
+}
